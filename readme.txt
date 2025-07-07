@@ -7,7 +7,7 @@ Práctica Programada 2 – SC-701 Programación Avanzada
 - Brayan Daniel Orozco Madrigal
 - Jason Hernán Chavarría Ramos
 
-2. https://github.com/JasonChavarriaR/PracticaProgramada2-PrograAvanzadaWeb.git
+2. https://github.com/JasonChavarria07/PracticaProgramada2_ProgramacionAvanzadaEnWeb.gits
 
 3. Especificación del Proyecto
 
