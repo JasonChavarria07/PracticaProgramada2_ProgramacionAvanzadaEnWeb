@@ -1,0 +1,29 @@
+﻿@model List<AppClientesMVC.Models.Cliente>
+
+<h2>Lista de Clientes</h2>
+
+<a class="btn btn-primary" asp-action="Crear">Crear nuevo cliente</a>
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Correo</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>@cliente.Nombre</td>
+                <td>@cliente.Correo</td>
+                <td>
+                    <a class="btn btn-sm btn-info" asp-controller="Telefono" asp-action="Index" asp-route-clienteId="@cliente.Id">Teléfonos</a>
+                    <a class="btn btn-sm btn-warning" asp-action="Editar" asp-route-id="@cliente.Id">Editar</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Eliminar" asp-route-id="@cliente.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744EDBFE-5EAF-4716-96EF-A8BBAF0810B0}|ApiClientes\\ApiClientes.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\apiclientes\\controllers\\telefonoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744EDBFE-5EAF-4716-96EF-A8BBAF0810B0}|ApiClientes\\ApiClientes.csproj|solutionrelative:apiclientes\\controllers\\telefonoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744EDBFE-5EAF-4716-96EF-A8BBAF0810B0}|ApiClientes\\ApiClientes.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\apiclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744EDBFE-5EAF-4716-96EF-A8BBAF0810B0}|ApiClientes\\ApiClientes.csproj|solutionrelative:apiclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744EDBFE-5EAF-4716-96EF-A8BBAF0810B0}|ApiClientes\\ApiClientes.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\apiclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744EDBFE-5EAF-4716-96EF-A8BBAF0810B0}|ApiClientes\\ApiClientes.csproj|solutionrelative:apiclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\dataaccess\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\dataaccess\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\entities\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\entities\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\controllers\\telefonocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\controllers\\telefonocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\views\\telefono\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\views\\telefono\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\models\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\models\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\views\\cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\views\\cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\views\\cliente\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\views\\cliente\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\appclientesmvc\\views\\telefono\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC13D1E-5F38-491F-8ACD-77399C5FDB7B}|AppClientesMVC\\AppClientesMVC.csproj|solutionrelative:appclientesmvc\\views\\telefono\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744EDBFE-5EAF-4716-96EF-A8BBAF0810B0}|ApiClientes\\ApiClientes.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\apiclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{744EDBFE-5EAF-4716-96EF-A8BBAF0810B0}|ApiClientes\\ApiClientes.csproj|solutionrelative:apiclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\services\\telefonoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\services\\telefonoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\interfaces\\itelefonoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\interfaces\\itelefonoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\dataaccess\\telefonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\dataaccess\\telefonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\interfaces\\itelefonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\interfaces\\itelefonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|c:\\users\\jason\\source\\repos\\practicaprogramada2\\clientescore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83B096C-3515-47DD-B057-C184786A5228}|ClientesCore\\ClientesCore.csproj|solutionrelative:clientescore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppClientesMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T12:35:53.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppClientesMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T11:32:34.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelefonosController.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ApiClientes\\Controllers\\TelefonosController.cs",
+              "RelativeDocumentMoniker": "ApiClientes\\Controllers\\TelefonosController.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ApiClientes\\Controllers\\TelefonosController.cs",
+              "RelativeToolTip": "ApiClientes\\Controllers\\TelefonosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:26:56.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Telefono\\Crear.cshtml",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Views\\Telefono\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Telefono\\Crear.cshtml",
+              "RelativeToolTip": "AppClientesMVC\\Views\\Telefono\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T11:25:18.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Telefono\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Views\\Telefono\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Telefono\\Index.cshtml",
+              "RelativeToolTip": "AppClientesMVC\\Views\\Telefono\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T11:24:47.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TelefonoController.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Controllers\\TelefonoController.cs",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Controllers\\TelefonoController.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Controllers\\TelefonoController.cs",
+              "RelativeToolTip": "AppClientesMVC\\Controllers\\TelefonoController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:24:00.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Models\\Telefono.cs",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Models\\Telefono.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Models\\Telefono.cs",
+              "RelativeToolTip": "AppClientesMVC\\Models\\Telefono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:23:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Cliente\\Editar.cshtml",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Views\\Cliente\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Cliente\\Editar.cshtml",
+              "RelativeToolTip": "AppClientesMVC\\Views\\Cliente\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T19:17:55.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Cliente\\Crear.cshtml",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Views\\Cliente\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Cliente\\Crear.cshtml",
+              "RelativeToolTip": "AppClientesMVC\\Views\\Cliente\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T19:17:27.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "AppClientesMVC\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T19:16:52.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AppClientesMVC\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:16:06.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Models\\Cliente.cs",
+              "RelativeToolTip": "AppClientesMVC\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:15:12.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Program.cs",
+              "RelativeDocumentMoniker": "AppClientesMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\AppClientesMVC\\Program.cs",
+              "RelativeToolTip": "AppClientesMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:13:31.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ApiClientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ApiClientes\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ApiClientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ApiClientes\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:39:54.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ApiClientes\\Program.cs",
+              "RelativeDocumentMoniker": "ApiClientes\\Program.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ApiClientes\\Program.cs",
+              "RelativeToolTip": "ApiClientes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:37:18.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ApiClientes\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiClientes\\appsettings.json",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ApiClientes\\appsettings.json",
+              "RelativeToolTip": "ApiClientes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T17:35:12.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TelefonoService.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Services\\TelefonoService.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\Services\\TelefonoService.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Services\\TelefonoService.cs",
+              "RelativeToolTip": "ClientesCore\\Services\\TelefonoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:34:06.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITelefonoService.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Interfaces\\ITelefonoService.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\Interfaces\\ITelefonoService.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Interfaces\\ITelefonoService.cs",
+              "RelativeToolTip": "ClientesCore\\Interfaces\\ITelefonoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:33:42.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "ClientesCore\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:32:52.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TelefonoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\DataAccess\\TelefonoRepository.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\DataAccess\\TelefonoRepository.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\DataAccess\\TelefonoRepository.cs",
+              "RelativeToolTip": "ClientesCore\\DataAccess\\TelefonoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:31:27.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITelefonoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Interfaces\\ITelefonoRepository.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\Interfaces\\ITelefonoRepository.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Interfaces\\ITelefonoRepository.cs",
+              "RelativeToolTip": "ClientesCore\\Interfaces\\ITelefonoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:31:00.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "ClientesCore\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:18:49.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\DataAccess\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\DataAccess\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\DataAccess\\ClienteRepository.cs",
+              "RelativeToolTip": "ClientesCore\\DataAccess\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:18:37.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Services\\ClienteService.cs",
+              "RelativeToolTip": "ClientesCore\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:18:17.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "ClientesCore\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:17:59.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Entities\\Telefono.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\Entities\\Telefono.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Entities\\Telefono.cs",
+              "RelativeToolTip": "ClientesCore\\Entities\\Telefono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:17:29.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Entities\\Cliente.cs",
+              "RelativeToolTip": "ClientesCore\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:17:14.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Class1.cs",
+              "RelativeDocumentMoniker": "ClientesCore\\Class1.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\PracticaProgramada2\\ClientesCore\\Class1.cs",
+              "RelativeToolTip": "ClientesCore\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:14:42.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d98f7c4d-b652-422c-bcdf-3d0e2b2da2c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

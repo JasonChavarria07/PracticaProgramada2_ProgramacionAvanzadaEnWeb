@@ -1,2 +1,0 @@
-# PracticaProgramada2_ProgramacionAvanzadaEnWeb
-

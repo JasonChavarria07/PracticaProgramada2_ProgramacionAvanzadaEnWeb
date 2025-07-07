@@ -1,0 +1,14 @@
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\bin\Debug\net8.0\ClientesCore.deps.json
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\bin\Debug\net8.0\ClientesCore.runtimeconfig.json
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\bin\Debug\net8.0\ClientesCore.dll
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\bin\Debug\net8.0\ClientesCore.pdb
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\ClientesCore.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\ClientesCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\ClientesCore.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\ClientesCore.AssemblyInfo.cs
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\ClientesCore.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\ClientesCore.dll
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\refint\ClientesCore.dll
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\ClientesCore.pdb
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\ClientesCore.genruntimeconfig.cache
+C:\Users\jason\source\repos\PracticaProgramada2\ClientesCore\obj\Debug\net8.0\ref\ClientesCore.dll
